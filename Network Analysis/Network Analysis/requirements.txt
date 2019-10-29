@@ -1,0 +1,2 @@
+ndlib==5.0.0
+networkx==2.3
